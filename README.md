@@ -1,3 +1,5 @@
+A fork of the Projects project for Ruby.
+
 Mega Project List
 ========
 
